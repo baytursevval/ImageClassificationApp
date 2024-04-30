@@ -1,4 +1,4 @@
-# proje2
+# proje2kopya
 
 A new Flutter project.
 

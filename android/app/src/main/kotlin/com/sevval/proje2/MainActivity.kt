@@ -1,4 +1,4 @@
-package com.sevval.proje2
+package com.sevval.proje2kopya
 
 import io.flutter.embedding.android.FlutterActivity
 
