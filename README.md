@@ -15,11 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Splash Screen
+<h2>Splash Screen</h2>
 
 <img width="186" alt="poster1" src="https://github.com/baytursevval/ImageClassificationApp/assets/101838447/93d39de1-ee5b-491a-bbd2-bfcf30c70fea">
 
-Home Page
+<h2>Home Page</h2>
 
 
 <img width="188" alt="poster2" src="https://github.com/baytursevval/ImageClassificationApp/assets/101838447/766ed76f-51d0-45d2-bfdd-85f658956740">
